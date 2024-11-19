@@ -19,7 +19,7 @@ git clone https://github.com/sachnaror/LLM-RAG-AI-Experiments.git
 2. Install the required dependencies:
 
 ```bash
-cd rag_experiments/local_rag_agent
+cd rag/local_rag_agent
 pip install -r requirements.txt
 ```
 

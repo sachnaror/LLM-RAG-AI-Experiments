@@ -19,7 +19,7 @@ git clone https://github.com/sachnaror/LLM-RAG-AI-Experiments.git
 2. Install the required dependencies:
 
 ```bash
-cd ai_agent_experiments/xai_finance_agent
+cd ai_agent/xai_finance_agent
 pip install -r requirements.txt
 ```
 
